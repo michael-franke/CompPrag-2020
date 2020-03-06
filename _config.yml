@@ -1,7 +1,7 @@
 remote_theme: rohanchandra/type-theme
 
 # SITE CONFIGURATION
-baseurl: "/CompPrag-2018"
+baseurl: "/CompPrag-2020"
 url: "https://michael-franke.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -15,9 +15,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Website for course <i>Computational Pragmatics</i>.<br>
+     <p>Website for course <div color = "black"><strong><i>Computational Pragmatics</i></strong></div>.<br>
      Part of the BSc/MSc program <i>Cognitive Science</i> at the University of Osnabr&uuml;ck.<br>
-     Taught by <a href="http://www.sfs.uni-tuebingen.de/~mfranke/">Michael Franke</a>.</p>
+     Taught by <a href="http://www.home.uni-osnabrueck.de/michfranke/index.html">Michael Franke</a>.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
@@ -30,7 +30,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "michael-franke/CompPrag-2018"
+  github: "michael-franke/CompPrag-2020"
   google_plus:
   instagram:
   linkedin:  # Full URL
