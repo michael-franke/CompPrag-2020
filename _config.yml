@@ -15,8 +15,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Website for course <div color = "black"><strong><i>Computational Pragmatics</i></strong></div><br>
-     Taught by <a href="http://www.home.uni-osnabrueck.de/michfranke/index.html">Michael Franke</a> in the winter term 2019/2020 at the University of Osnabr&uuml;ck.</p>
+     <p><div color = "black"><strong><i>Computational Pragmatics</i></strong></div><br>
+     Course taught by <a href="http://www.home.uni-osnabrueck.de/michfranke/index.html">Michael Franke</a> in the winter term 2019/2020 at the University of Osnabr&uuml;ck.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
